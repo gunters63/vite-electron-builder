@@ -20,7 +20,7 @@ import ElectronVersions from '/@/components/ElectronVersions.vue';</script>
   </p>
 
   <fieldset>
-    <legend>Test Vue Reactivity</legend>
+    <legend>Test Vue Reactivity xxx</legend>
     <reactive-counter />
   </fieldset>
 
